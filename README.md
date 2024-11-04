@@ -22,8 +22,7 @@ Ganesh is a simple and casual conversation chatbot built using Python. It utiliz
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ganesh-chatbot.git
-   cd ganesh-chatbot
+   git clone https://github.com/rohan-jangir/chatbot/tree/main
    ```
 
 **2. Install required packages:**
